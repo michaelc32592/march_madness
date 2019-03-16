@@ -5,6 +5,8 @@ Created on Sun Dec  9 15:51:55 2018
 @author: micha
 """
 
+# LOOK AT THIS AWESOME CODE
+
 import pandas as pd
 
 df = pd.read_csv("cities.csv")
